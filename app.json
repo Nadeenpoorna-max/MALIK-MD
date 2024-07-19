@@ -1,14 +1,14 @@
 {
   "name": "MALIK-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg",
+  "logo": "https://telegra.ph/file/f5e0751267307ac475187.mp4",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "Malik", "Secktor","MALIK-MD","theme bot","multi device","baileys","bot"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Ata Ur Rehman"
+      "value": "Nadeen Poorna"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -32,10 +32,10 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg"
+     "value": "https://telegra.ph/file/f5e0751267307ac475187.mp4"
     },
     "ANTI_BAD_WORD": {
-    "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
+    "description": "pakaya,huththa,kariya,ponnaya,fuck,sex",
      "required" :false
     },
    "ANTILINK_VALUES": {
@@ -72,7 +72,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "923xxxxxxxx"
+       "value": "94711451319"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@Excelottah/BLACK-Md"
@@ -101,7 +101,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "mybot;malik-md",
+     "value": "mybot;Nadeenbot",
      "required": false 
   },
   "heroku": {
